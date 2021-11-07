@@ -21,15 +21,17 @@ body {
 .layout_post>#post,
 .read-mode .layout_post>#post {
     background: var(--light_bg_color)
+   /* background: rgba(245, 245, 245, 0.719); */
 }
 
 #aside-content .card-widget {
     background: var(--light_bg_color)
+    /* background: rgba(245, 245, 245, 0.719); */
 }
 
 #web_bg {
     background: linear-gradient(90deg, rgba(247, 149, 51, .1), rgba(243, 112, 85, .1) 15%, rgba(239, 78, 123, .1) 30%, rgba(161, 102, 171, .1) 44%, rgba(80, 115, 184, .1) 58%, rgba(16, 152, 173, .1) 72%, rgba(7, 179, 155, .1) 86%, rgba(109, 186, 130, .1))
-        /* background: url('https://cdn.jsdelivr.net/gh/lion1437/PicDemo/img/image_3.jpg'); */
+        /* background: url('https://cdn.jsdelivr.net/gh/lion1437/PicDemo/img/image_1.gif'); */
 }
 
 /* 页脚样式 */
