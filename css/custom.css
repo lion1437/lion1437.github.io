@@ -21,12 +21,12 @@ body {
 .layout_post>#post,
 .read-mode .layout_post>#post {
     background: var(--light_bg_color)
-   /* background: rgba(245, 245, 245, 0.719); */
+        /* background: rgba(245, 245, 245, 0.719); */
 }
 
 #aside-content .card-widget {
     background: var(--light_bg_color)
-    /* background: rgba(245, 245, 245, 0.719); */
+        /* background: rgba(245, 245, 245, 0.719); */
 }
 
 #web_bg {
@@ -99,4 +99,8 @@ i:hover {
 /* 悬停菜单栏时的鼠标指针 */
 #nav .site-page:hover {
     cursor: url('../cursors/normal.cur'), auto;
+}
+
+.about-ul li {
+    color: aqua;
 }
