@@ -1903,7 +1903,7 @@ blockquote footer cite:before {
 #article-container .code-expand-btn:not(.expand-done) ~ table,
 #article-container .code-expand-btn:not(.expand-done) ~ pre {
   overflow: hidden;
-  height: 70px;
+  height: 300px;
 }
 @-moz-keyframes code-expand-key {
   0% {
