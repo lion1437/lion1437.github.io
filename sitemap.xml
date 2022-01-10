@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://coxiao.cn/times/index.html</loc>
+    
+    <lastmod>2022-01-10</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://coxiao.cn/2021/11/05/%E4%B8%AA%E4%BA%BA%E6%96%87%E6%A1%A3%E4%BD%BF%E7%94%A8/</loc>
     
     <lastmod>2021-11-18</lastmod>
@@ -10,13 +17,6 @@
   
   <url>
     <loc>https://coxiao.cn/2021/11/18/%E5%A4%96%E6%8C%82%E6%A0%87%E7%AD%BE/</loc>
-    
-    <lastmod>2021-11-18</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://coxiao.cn/times/index.html</loc>
     
     <lastmod>2021-11-18</lastmod>
     
@@ -88,7 +88,7 @@
 
   <url>
     <loc>https://coxiao.cn/</loc>
-    <lastmod>2021-11-18</lastmod>
+    <lastmod>2022-01-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -96,14 +96,14 @@
   
   <url>
     <loc>https://coxiao.cn/tags/Markdown/</loc>
-    <lastmod>2021-11-18</lastmod>
+    <lastmod>2022-01-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://coxiao.cn/tags/Hexo-Markdown/</loc>
-    <lastmod>2021-11-18</lastmod>
+    <lastmod>2022-01-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -112,7 +112,7 @@
   
   <url>
     <loc>https://coxiao.cn/categories/%E6%96%87%E6%A1%A3/</loc>
-    <lastmod>2021-11-18</lastmod>
+    <lastmod>2022-01-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
